@@ -61,9 +61,9 @@
       "value": "True",
       "required": false
     },
-    "BADCAT": {
-      "description": "set 'True' to install 18+ plugins.",
-      "value": "False",
+    "TNCAT": {
+      "description": "set 'True' to install plugins.",
+      "value": "true",
       "required": false
     }
   },
